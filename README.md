@@ -1,4 +1,2 @@
 # SW
-this is my first repository on github
-
-I love:coffe.
+this is my first repositry
